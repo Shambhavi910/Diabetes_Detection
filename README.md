@@ -55,7 +55,7 @@ This project predicts whether a patient is likely to have diabetes based on medi
 
 ---
 
-## 🔮 Future Improvements  
+##  Future Improvements  
 
 - Hyperparameter tuning with **GridSearchCV / RandomizedSearchCV**  
 - Explore **deep learning models** for improved accuracy  
@@ -63,12 +63,13 @@ This project predicts whether a patient is likely to have diabetes based on medi
 
 ---
 
-## 👩‍💻 Author  
+##  Author  
 
 **Shambhavi Roy**  
 
 - GitHub: [@Shambhavi910](https://github.com/Shambhavi910)  
 - LinkedIn: [Shambhavi Roy](https://www.linkedin.com/in/shambhavi-roy-402682370)  
+
 
 
 
