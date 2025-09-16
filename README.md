@@ -46,15 +46,15 @@ This project predicts whether a patient is likely to have diabetes based on medi
 3.Run the Jupyter Notebook:
   ```bash
   jupyter notebook Diabetes_Detection.ipynb
+  ```bash
 
 ---
+
 ##  Results
 
-- Achieved accuracy of ~XX% (replace with your result) using [best model].
+- Achieved accuracy of ~77% .
 
-- ROC-AUC score: XX%
-
-- Random Forest / SVM / Logistic Regression gave the best performance (update based on your results)
+- SVM  gave the best performance 
 
 ## Future Improvements
 
@@ -65,10 +65,11 @@ This project predicts whether a patient is likely to have diabetes based on medi
 - Collect real-world clinical datasets for better generalization
 
 ## Author
-Shambhavi Ror
+Shambhavi Roy
 
 GitHub: @Shambhavi910
 
 LinkedIn: www.linkedin.com/in/shambhavi-roy-402682370
+
 
 
