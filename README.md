@@ -36,6 +36,7 @@ This project predicts whether a patient is likely to have diabetes based on medi
 ---
 
 ##  How to Run  
+
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/diabetes-detection.git
@@ -51,26 +52,31 @@ This project predicts whether a patient is likely to have diabetes based on medi
 
 ---
 
-## Results
+### 6. Results  
+```markdown
+## ✅ Results  
 
-- Achieved accuracy of ~77% .
+- Achieved accuracy of ~**77%**  
+- **SVM** gave the best performance  
 
-- SVM  gave the best performance 
+---
 
-## Future Improvements
+## 🔮 Future Improvements  
 
-- Hyperparameter tuning with GridSearchCV/RandomizedSearchCV
+- Hyperparameter tuning with **GridSearchCV / RandomizedSearchCV**  
+- Explore **deep learning models** for improved accuracy  
+- Collect **real-world clinical datasets** for better generalization  
 
-- Explore deep learning models for improved accuracy
+---
 
-- Collect real-world clinical datasets for better generalization
+## 👩‍💻 Author  
 
-## Author
-Shambhavi Roy
+**Shambhavi Roy**  
 
-GitHub: @Shambhavi910
+- GitHub: [@Shambhavi910](https://github.com/Shambhavi910)  
+- LinkedIn: [Shambhavi Roy](https://www.linkedin.com/in/shambhavi-roy-402682370)  
 
-LinkedIn: www.linkedin.com/in/shambhavi-roy-402682370
+
 
 
 
