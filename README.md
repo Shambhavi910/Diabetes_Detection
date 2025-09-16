@@ -40,17 +40,18 @@ This project predicts whether a patient is likely to have diabetes based on medi
    ```bash
    git clone https://github.com/your-username/diabetes-detection.git
    cd diabetes-detection
+
 2.Install dependencies:
    ```bash
    pip install -r requirements.txt
+
 3.Run the Jupyter Notebook:
-  ```bash
+   ```bash
   jupyter notebook Diabetes_Detection.ipynb
-  ```bash
 
 ---
 
-##  Results
+## Results
 
 - Achieved accuracy of ~77% .
 
@@ -70,6 +71,7 @@ Shambhavi Roy
 GitHub: @Shambhavi910
 
 LinkedIn: www.linkedin.com/in/shambhavi-roy-402682370
+
 
 
 
