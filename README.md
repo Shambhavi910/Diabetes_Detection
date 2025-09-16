@@ -14,7 +14,7 @@ This project predicts whether a patient is likely to have diabetes based on medi
 ---
 
 ##  Dataset  
-- **PIMA Indians Diabetes Dataset** from Kaggle / UCI Repository  
+- **PIMA Indians Diabetes Dataset** from Kaggle  
 - Features include:  
   - Pregnancies  
   - Glucose  
@@ -69,6 +69,7 @@ This project predicts whether a patient is likely to have diabetes based on medi
 
 - GitHub: [@Shambhavi910](https://github.com/Shambhavi910)  
 - LinkedIn: [Shambhavi Roy](https://www.linkedin.com/in/shambhavi-roy-402682370)  
+
 
 
 
