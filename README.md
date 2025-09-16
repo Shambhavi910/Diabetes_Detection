@@ -43,19 +43,14 @@ This project predicts whether a patient is likely to have diabetes based on medi
    cd diabetes-detection
 
 2.Install dependencies:
-   ```bash
    pip install -r requirements.txt
 
 3.Run the Jupyter Notebook:
-   ```bash
   jupyter notebook Diabetes_Detection.ipynb
 
 ---
 
 ### 6. Results  
-```markdown
-## ✅ Results  
-
 - Achieved accuracy of ~**77%**  
 - **SVM** gave the best performance  
 
@@ -75,6 +70,7 @@ This project predicts whether a patient is likely to have diabetes based on medi
 
 - GitHub: [@Shambhavi910](https://github.com/Shambhavi910)  
 - LinkedIn: [Shambhavi Roy](https://www.linkedin.com/in/shambhavi-roy-402682370)  
+
 
 
 
