@@ -38,7 +38,6 @@ This project predicts whether a patient is likely to have diabetes based on medi
 ##  How to Run  
 
 1. Clone the repository:  
-   ```bash
    git clone https://github.com/your-username/diabetes-detection.git
    cd diabetes-detection
 
@@ -70,6 +69,7 @@ This project predicts whether a patient is likely to have diabetes based on medi
 
 - GitHub: [@Shambhavi910](https://github.com/Shambhavi910)  
 - LinkedIn: [Shambhavi Roy](https://www.linkedin.com/in/shambhavi-roy-402682370)  
+
 
 
 
